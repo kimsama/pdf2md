@@ -1,0 +1,7 @@
+pytesseract
+pdfplumber
+pandas
+pillow
+markdownify 
+tabulate
+PyMuPDF
